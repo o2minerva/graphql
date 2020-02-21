@@ -20,5 +20,9 @@
     "release-it": "12.4.3"
   },
   "dependencies": {
+    "apollo-server-express": "2.10.1",
+    "express": "4.17.1",
+    "express-graphql": "0.9.0",
+    "graphql": "14.6.0"
   }
 }
