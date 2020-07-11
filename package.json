@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/org-minerva/graphql.git"
+    "url": "git+https://github.com/o2minerva/graphql.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/org-minerva/graphql/issues"
+    "url": "https://github.com/o2minerva/graphql/issues"
   },
-  "homepage": "https://github.com/org-minerva/graphql#readme",
+  "homepage": "https://github.com/o2minerva/graphql#readme",
   "devDependencies": {
     "release-it": "12.4.3"
   },
